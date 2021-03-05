@@ -1,0 +1,12 @@
+.idea/
+crudenv/
+.pre-commit-config.yaml
+CRUD_classbasedapi_06/__pycache__/
+__pycache__/
+.py[cod]
+.idea/
+.log
+.pot
+.pyc
+__pycache__/
+local_settings.py
